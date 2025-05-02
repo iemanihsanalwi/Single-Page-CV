@@ -32,7 +32,7 @@ To learn how to create a structured CV using semantic HTML elements.
         (Adjust the `href` path if your favicon is located in a different directory.)
 * **Clear and Understandable Structure:** The HTML should be organized logically, making it easy to identify different sections of the CV (e.g., contact information, summary, education, skills, experience). The structure should be prepared for CSS styling in a future project.
 
-# My Online CV Project
+## My Online CV Project
 
 This repository contains the HTML code for my online Curriculum Vitae.
 
