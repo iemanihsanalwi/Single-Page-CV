@@ -1,7 +1,5 @@
 # Single-Page-CV
 
-# HTML-Only Curriculum Vitae Project
-
 ## Overview
 
 This project focuses on creating a structured, single-page Curriculum Vitae (CV) using only HTML. The primary goal is to establish a semantic and well-organized foundation for the CV's content, including education, skills, and career history. Styling and visual presentation will be addressed in a subsequent project.
